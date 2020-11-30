@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Check status][check-image]][check-url]
 
 * Студент: [Валентина](https://up.htmlacademy.ru/adaptive/21/user/1591735).
-* Наставник: `Неизвестно`.
+* Наставник: [Лиза](https://htmlacademy.ru/profile/lizzy).
 
 ---
 
